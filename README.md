@@ -23,6 +23,8 @@ The Average Order Value (AOV) remains centered at $112, yet it is subject to ext
 
 
 Sales Insights
+
+
 ![revVsGrw](https://github.com/user-attachments/assets/99c9f581-0d63-44c0-a9fe-05cc1496e0a4)
 
 1. Sales Performance & YoY Growth Trends:
@@ -31,7 +33,11 @@ Unstable Growth Momentum: Year-over-year growth rates display sharp and frequent
 Seasonal Demand Cycles: The sales pattern reflects a repeating seasonal cycle, where performance strengthens toward the end of the year and peaks in Q1, before weakening through Q2 and parts of Q3. This cyclical behavior highlights predictable periods of demand expansion and contraction.
 Post-Peak Normalization: Strong revenue quarters are often followed by a period of correction, where both revenue and growth retreat toward average levels. This pattern suggests that demand surges are temporary and tend to normalize rather than compound over subsequent quarters.
 
-2. Average Order Value (AOV Trends)
+
+<img width="638" height="311" alt="avgorder" src="https://github.com/user-attachments/assets/4ace3292-bce2-48e2-86e7-dd57dfe8e6f1" />
+
+
+3. Average Order Value (AOV Trends)
 Stable Long-Term Average with Short-Term Swings:
  AOV remains centered around an average of $112, indicating stable customer spending levels over the long term. However, this stability masks frequent short-term fluctuations that occur almost every quarter.
 
@@ -42,6 +48,11 @@ Pronounced Quarterly Volatility:
 
 Periodic High-Value Spikes:
  Several quarters, most notably Q1 2024 (≈$133), demonstrate strong increases in AOV. These spikes point to periods where customers either purchase higher-priced items or larger baskets, possibly driven by premium product demand or bundled purchases.
+
+
+<img width="505" height="278" alt="transaction" src="https://github.com/user-attachments/assets/79e42cf1-8b02-4748-b20d-518facfc3eb5" />
+
+ 
 3. Transaction Volume Trends
 Consistent Cyclical Pattern:
  Transaction volumes follow a repeating quarterly cycle, with higher activity typically observed in Q1 and lower activity toward Q4. This recurring pattern suggests predictable customer purchasing behavior rather than random fluctuations.
