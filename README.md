@@ -38,6 +38,8 @@ Post-Peak Normalization: Strong revenue quarters are often followed by a period 
 
 
 3. Average Order Value (AOV Trends)
+
+   
 Stable Long-Term Average with Short-Term Swings:
  AOV remains centered around an average of $112, indicating stable customer spending levels over the long term. However, this stability masks frequent short-term fluctuations that occur almost every quarter.
 
@@ -54,6 +56,8 @@ Periodic High-Value Spikes:
 
  
 3. Transaction Volume Trends
+
+   
 Consistent Cyclical Pattern:
  Transaction volumes follow a repeating quarterly cycle, with higher activity typically observed in Q1 and lower activity toward Q4. This recurring pattern suggests predictable customer purchasing behavior rather than random fluctuations.
 
@@ -68,27 +72,52 @@ Mid-Year Decline:
 
 Sharp Late-Period Decline:
  The steep drop in Q4 2025 represents a significant deviation from historical patterns. This may reflect incomplete data, operational disruption, or a sharp reduction in demand and warrants further validation.
+
+ 
 Product Insights
 
+
+
 1. Profit & Profit Margin Analysis
+
+<img width="505" height="278" alt="transaction" src="https://github.com/user-attachments/assets/a399877a-36b6-41d5-928a-ca6ce84fc5f0" />
+
+
 Record-Breaking Profit Peak in Q1 2025: Total profit reached its historical zenith in Q1 2025 at $2.03M. This peak aligns with the revenue strength seen in your previous charts, indicating that the business reached its highest level of absolute earnings efficiency at the start of the current year.
 Declining Margin Efficiency: While total profit has seen periodic highs, the Profit Margin % shows a long-term downward compression. From a high of 38% in Q1 2022, the margin has failed to return to that level, consistently fluctuating between 34% and 37%. This suggests that as the business scales, the cost of generating each dollar of revenue is increasing.
 The Q4 "Margin Cliff": The data reveals a severe and recurring vulnerability in the fourth quarter. In Q4 2025, both total profit and profit margin are experiencing a synchronized "cliff-dive," with margins dropping to their lowest recorded point (approx. 34%). This indicates that year-end operations or sales strategies (such as aggressive discounting) are significantly eroding bottom-line health.
 Correlation Between Volume and Margin: There is a tight correlation between profit dollars and margin percentage. When total profit dips (typically in Q2 and Q4), the margin percentage drops alongside it. This suggests that the business lacks a "margin floor" and is highly susceptible to profitability swings based on seasonal volume.
 Widening Gap in 2025: Throughout 2025, the gap between the profit peaks and the subsequent troughs has become more extreme. The drop from the $2.03M high in Q1 to the current Q4 projection represents the most significant profitability contraction in the four-year data set, signaling an urgent need for operational or pricing adjustments.
+
+<img width="1301" height="324" alt="top 10 product" src="https://github.com/user-attachments/assets/d813c3c0-932a-4c91-b341-e865562b5468" />
+
+
 2. Top 10 Products by Revenue Trends
 Universal Seasonal Alignment: All top 10 products, including core categories like Cables, Batteries, and Chargers, exhibit synchronized revenue movements. Revenue for every top product peaks in Q1 and troughs in Q4, showing that no single product in the portfolio is currently "recession-proof" against seasonal dips.
 Dominance of Premium Categories: The 1035 Batteries Premium (dark grey line) consistently emerges as a top revenue driver, particularly during the Q1 surges. Its performance often dictates the overall shape of the revenue curve, making it a critical "anchor" product for the business.
 Portfolio-Wide Q4 Collapse: In Q4 2025, there is a total convergence of the product lines as they all trend toward their lowest revenue levels of the five-year period. The lack of a "counter-cyclical" product—one that sells well when others fail—leaves the entire business vulnerable to these deep Q4 troughs.
+
+
+
 	Promotion Insights
 
 
-Promo vs. Non-Promo Revenue Analysis
+<img width="653" height="364" alt="promo vs non promo" src="https://github.com/user-attachments/assets/e8805e35-e6f7-496a-865d-d58170dc8489" />
+
+
+1. Promo vs. Non-Promo Revenue Analysis
+
 Inverse Performance Relationship: The data shows a distinct inverse relationship between promotional and organic demand. Whenever Promo Revenue peaks—most notably in Q1 2024 ($2.8M) and Q1 2025 ($2.92M)—Non-Promo Revenue tends to be at a local trough. This suggests that promotions are heavily cannibalizing full-price sales rather than purely expanding the total market.
 Volatility of Promotional Impact: Promo Revenue is extremely volatile, swinging from near-zero in various Q4 periods to massive spikes in Q1. Conversely, Non-Promo Revenue (the dashed line) shows a more stable, higher baseline, peaking at $3.02M in Q2 2024, which indicates that the brand has strong organic pull that does not always require discounting to activate.
 Diminishing Returns on Discounts: Despite a massive promotional push in Q1 2025 ($2.92M), the subsequent quarters show that this did not lead to a sustained lift in organic (Non-Promo) revenue. Instead, the organic baseline fell sharply through Q2 and Q3 of 2025, suggesting that frequent heavy discounting may be training customers to wait for sales.
 
-Promotion ROI Analysis
+
+<img width="1281" height="317" alt="Promotion roi" src="https://github.com/user-attachments/assets/f29645c5-fc90-43bd-a324-479ab5084bf8" />
+
+
+2.Promotion ROI Analysis
+
+
 Dominance of the Summer Sale: The Summer Sale is consistently the most effective promotional vehicle, delivering a high ROI of 1.6 across 2021, 2022, 2024, and 2025. This promotion stands out as a reliable driver of value, maintaining its efficiency even as other sales struggle.
 Ineffectiveness of Major Seasonal Events: High-profile sales like Black Friday and Ramadan consistently yield negative returns, with Black Friday ROI dipping as low as -1.1 in Q4 2022 and Q4 2024. This indicates that the deep discounting or high acquisition costs associated with these competitive periods are actively destroying value rather than creating it.
 Regional Event Volatility: While the UAE National Day sale showed a strong 1.6 ROI in late 2022, it failed to replicate that success in subsequent years, dropping to a 0.5 ROI in 2023 and 0.4 in 2024. This suggests a diminishing return on regional holiday themes or a shift in consumer responsiveness to these specific events.
