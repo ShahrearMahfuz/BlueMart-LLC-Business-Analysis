@@ -23,6 +23,8 @@ The Average Order Value (AOV) remains centered at $112, yet it is subject to ext
 
 
 Sales Insights
+![revVsGrw](https://github.com/user-attachments/assets/99c9f581-0d63-44c0-a9fe-05cc1496e0a4)
+
 1. Sales Performance & YoY Growth Trends:
 Recurring Early-Year Strength: Sales performance consistently accelerates at the start of each year, with Q1 emerging as the strongest quarter across the entire period. The most pronounced peaks occur in Q1 2024 ($5.4M) and Q1 2025 ($5.3M), reinforcing the importance of early-year demand in driving annual results.
 Unstable Growth Momentum: Year-over-year growth rates display sharp and frequent swings, indicating an absence of sustained growth momentum. Following a strong expansion phase in early 2024, growth decelerates rapidly and turns negative by Q2 2025 (approximately −12%), suggesting that recent revenue gains were not structurally maintained.
